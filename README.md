@@ -18,3 +18,6 @@ Open the project in NetBeans IDE
 Set up the MySQL database by executing the SQL script in the database folder
 Update the database connection settings in the DbConnect.java file
 Build and run the project
+
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing code style and include appropriate tests.
