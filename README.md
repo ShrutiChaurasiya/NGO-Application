@@ -28,3 +28,15 @@ Build and run the project
 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing code style and include appropriate tests.
+
+
+# ScreenShots:
+
+# Start Page
+![image](https://github.com/user-attachments/assets/7c001a55-e2d3-492d-93c1-c65a00287a50)
+
+# Login Page
+![image](https://github.com/user-attachments/assets/6f7e2c56-5693-449d-aea8-35864905661c)
+
+# Home Page
+![image](https://github.com/user-attachments/assets/7a4c9907-9091-47b2-b634-e2ec1cd4ff6b)
